@@ -1,13 +1,13 @@
 /*body*/
 
 body {
-	background-color: #424242;
 	color: white;
     font-family: 'Courier New', monospace;
 	font-size: 100%;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 15%;
 	background-color: #2f2f2f;
+    word-wrap: break-word;
 }
 
 h1 {
@@ -37,25 +37,25 @@ p {
 /*links*/
 
 a:link {
-	color: #add8e6;
+	color: #81cfe0;
 	background-color: transparent;
 	text-decoration: none;
 }
 
 a:visited {
-	color: #2ecc91;
+	color: #be90d4;
 	background-color: transparent;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #81cfe0;
+	color: #00b5b5;
 	background-color: transparent;
 	text-decoration: underline;
 }
 
 a:active {
-	color: #dda0dd;
+	color: #be90d4;
 	background-color: transparent;
 	text-decoration: underline;
 }
@@ -65,44 +65,43 @@ a:active {
 .container {
 	width: auto;
 	margin: 1em;
-	padding-top: 1em;
-	padding-right: 1em;
-	padding-bottom: 1em;
-	padding-left: 1em;
-	background-color: #424242;
+	padding-top: 0.5em;
+	padding-right: 1%;
+	padding-bottom: 0.5em;
+	padding-left: 1%;
+	background-color: #383838;
 	border-radius: 5px;
 	border-style: solid;
 	border-width: 1px;
-	border-color: #505050;
+	border-color: #424242;
 }
 
 .box {
 	border-style: solid;
 	border-width: 1.5px;
-	border-color: #8d69bb;
+	border-color: #5c4864;
 	border-radius: 5px;
-	background-color: #424242;
+	background-color: #383838;
 	margin: 1em;
-	padding-top: 1em;
-	padding-right: 4em;
-	padding-bottom: 1em;
-	padding-left: 4em;
+	padding-top: 1.5em;
+	padding-right: 5%;
+	padding-bottom: 2em;
+	padding-left: 5%;
 }
 
 /* button */
 
 button {
-	border-color: #add8e6;
+	border-color: #81cfe0;
 	border-radius: 5px;
 	color: #f3f3f3;
-	background-color: #505050;
+	background-color: #424242;
 	text-align: center;
 	text-decoration: none;
 	cursor: pointer;
+    font-family: 'Courier New', monospace;
 }
 
 button:hover {
-	background-color: #505050;
-	border-color: #dda0dd;
-	color: #f3f3f3;
+	border-color: #be90d4;
 }

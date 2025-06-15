@@ -1,0 +1,108 @@
+/*body*/
+
+body {
+	background-color: #424242;
+	color: white;
+    font-family: 'Courier New', monospace;
+	font-size: 100%;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: #2f2f2f;
+}
+
+h1 {
+	color: white;
+	font-family: 'Courier New', monospace;
+	font-size: 2em;
+}
+
+h2 {
+	color: white;
+	font-family: 'Courier New', monospace;
+	font-size: 1.5em;
+}
+
+h3 {
+	color: white;
+	font-family: 'Courier New', monospace;
+	font-size: 1.2em;
+}
+
+p {
+	color: #f3f3f3;
+	font-family: 'Courier New', monospace;
+	font-size: 1em;
+}
+
+/*links*/
+
+a:link {
+	color: #add8e6;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #2ecc91;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #81cfe0;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #dda0dd;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+/* divs */
+
+.container {
+	width: auto;
+	margin: 1em;
+	padding-top: 1em;
+	padding-right: 1em;
+	padding-bottom: 1em;
+	padding-left: 1em;
+	background-color: #424242;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #505050;
+}
+
+.box {
+	border-style: solid;
+	border-width: 1.5px;
+	border-color: #8d69bb;
+	border-radius: 5px;
+	background-color: #424242;
+	margin: 1em;
+	padding-top: 1em;
+	padding-right: 4em;
+	padding-bottom: 1em;
+	padding-left: 4em;
+}
+
+/* button */
+
+button {
+	border-color: #add8e6;
+	border-radius: 5px;
+	color: #f3f3f3;
+	background-color: #505050;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #505050;
+	border-color: #dda0dd;
+	color: #f3f3f3;
+}

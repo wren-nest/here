@@ -1,3 +1,10 @@
+/* characters */
+
+.penn {
+	font-family: Verdana;
+	color: yellow;
+}
+
 /*body*/
 
 body {
@@ -36,11 +43,6 @@ p {
 
 img {
 
-}
-
-.penn {
-	font-family: Arial;
-	color: yellow;
 }
 
 /*links*/

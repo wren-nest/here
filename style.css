@@ -93,6 +93,10 @@ a:active {
 	padding-left: 5%;
 }
 
+.penn {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
 /* button */
 
 button {
@@ -109,3 +113,4 @@ button {
 button:hover {
 	border-color: #be90d4;
 }
+

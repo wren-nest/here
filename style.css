@@ -35,7 +35,12 @@ p {
 }
 
 img {
-	border-radius: 5px;
+
+}
+
+.penn {
+	font-family: Arial;
+	color: yellow;
 }
 
 /*links*/
@@ -91,11 +96,6 @@ a:active {
 	padding-right: 5%;
 	padding-bottom: 2em;
 	padding-left: 5%;
-}
-
-.penn {
-	font-family: Arial;
-	color: yellow;
 }
 
 /* button */

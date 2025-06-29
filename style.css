@@ -11,26 +11,18 @@ body {
 }
 
 h1 {
-	color: white;
-	font-family: 'Courier New', monospace;
 	font-size: 2em;
 }
 
 h2 {
-	color: white;
-	font-family: 'Courier New', monospace;
 	font-size: 1.5em;
 }
 
 h3 {
-	color: white;
-	font-family: 'Courier New', monospace;
 	font-size: 1.2em;
 }
 
 p {
-	color: #f3f3f3;
-	font-family: 'Courier New', monospace;
 	font-size: 1em;
 }
 
@@ -111,4 +103,5 @@ button:hover {
 .penn {
 	font-family: Verdana;
 	color: #f7ca18;
+	font-size: 1em;
 }

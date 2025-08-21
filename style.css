@@ -26,6 +26,13 @@ p {
 	font-size: 1em;
 }
 
+details > summary {
+  padding: 1em;
+  font-style: italic;
+  border: none;
+  cursor: pointer;
+}
+
 /*links*/
 
 a:link {
